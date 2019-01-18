@@ -1,0 +1,22 @@
+# Clean binary search code. If cannot find the number, return -1; Or return the index of target.
+#二分查找，如能找到，返回目标值在数组中的index,否则返回-1
+class Solution:
+    def search(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
+        left, right = 0, len(nums) - 1
+        
+        while left <= right:
+            mid = left + int((right - left) / 2)
+            if nums[mid] > target:
+                right = mid - 1
+            elif nums[mid] < target:
+                left = mid + 1
+            else:
+                return mid
+                
+        
+        return -1
