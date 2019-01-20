@@ -4,7 +4,7 @@ Share my thoughts on solving algorithm problems. I'll write this repo in both En
 
 ### Facebook
 
-1 . Increasing Subsequence
+1. Increasing Subsequence
 
 Recommendations: 674 300 673 491
 
