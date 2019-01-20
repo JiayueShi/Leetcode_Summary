@@ -4,18 +4,14 @@ Share my thoughts on solving algorithm problems. I'll write this repo in both En
 
 ### Facebook
 
-1. Increasing Subsequence
-
-Recommendations: 674 300 673 491
+1. Increasing Subsequence: 674 300 673 491
 
 2. Binary Search Tree and Binary Tree
 
 ### Google
 
-1. Tricky problems
-
-Recommendations: 681
+1. Tricky problems: 681(Simulate a clock)
 
 ### Algorithms related to machine learning
 
-Recommendations: Edit Distance(71, 161)
+1. Edit Distance(71, 161)
